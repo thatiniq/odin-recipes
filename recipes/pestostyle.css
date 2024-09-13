@@ -1,0 +1,37 @@
+
+span {
+
+    font-family: 'Times New Roman', Times, serif;
+    display: inline;
+    background-color: yellowgreen;
+    color: red;
+    font-size: 34px;
+
+}
+
+h1 {
+
+    color: yellowgreen;
+    text-align: center;
+    background-color: orangered;
+    font-size: 50px;
+
+}
+
+p {
+    
+    font-family: verdana, sans-serif;
+    color: orangered;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+li {
+
+    color: orangered;
+    font-family: verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+
+}

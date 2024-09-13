@@ -1,0 +1,49 @@
+
+/* Styling the Chicken recipe page*/
+
+body {
+
+    font-size: 20px;
+
+}
+
+span {
+    
+    font-family: 'Times New Roman', Times, serif;
+    display:inline;
+    background-color: yellowgreen;
+    color: purple;
+    font-size: 34px;     
+
+}
+
+h1 {
+
+    color: yellowgreen;
+    text-align: center;
+    background-color: purple;
+    font-size: 50px;
+
+}
+
+li {
+
+    color:purple;
+    font-family: verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+p {
+
+    font-family: verdana, sans-serif;
+    font-size: 18px;
+    color: purple
+}
+
+em {
+
+    font-weight: bold;
+
+}
